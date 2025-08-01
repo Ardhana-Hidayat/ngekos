@@ -41,7 +41,7 @@
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/ngekos.git
+   git clone https://github.com/Ardhana-Hidayat/ngekos.git
    cd ngekos
 
 ## License
